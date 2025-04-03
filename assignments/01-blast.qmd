@@ -39,4 +39,11 @@ gunzip -k uniprot_sprot_r2025_01.fasta.gz
 
 ls
 ```
+```{bash}
+head ../../blastdb/unip*
+
+```
+
+
+
 
