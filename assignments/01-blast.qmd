@@ -14,6 +14,29 @@ tar -xf ncbi-blast-2.16.0+-x64-linux.tar.gz
 
 ```{bash}
 /home/jovyan/applications/ncbi-blast-2.16.0+/bin/blastx -h
-hdkdk
 
 ```
+
+
+# make blast database 
+
+I am using swsis-prot uni=prot
+
+
+```{bash}
+cd ../../blastdb
+```
+
+
+```{bash}
+cd ../../blastdb
+
+curl -O https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.fasta.gz
+
+mv uniprot_sprot.fasta.gz uniprot_sprot_r2025_01.fasta.gz
+
+gunzip -k uniprot_sprot_r2025_01.fasta.gz
+
+ls
+```
+
