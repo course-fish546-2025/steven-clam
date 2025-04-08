@@ -1,0 +1,48 @@
+---
+title: "02-RNA-seq"
+format: html
+editor: visual
+---
+
+## RNA seq
+
+```{bash}
+/home/shared/kallisto/kallisto
+```
+Kallisto installed on raven!!
+
+
+# Downloading Reference Genome
+
+
+```{bash}
+cd data
+curl --insecure -O https://gannet.fish.washington.edu/seashell/bu-github/nb-2023/Cgigas/data/rna.fna
+```
+
+
+```{bash}
+/home/shared/kallisto/kallisto \
+index -i \
+data/cgigas_roslin_rna.index \
+data/rna.fna
+```
+
+This process will take a while.....
+
+
+
+# Dowloading sequence reads
+
+
+```{bash}
+cd data 
+wget --recursive --no-parent --no-directories \
+--no-check-certificate \
+--accept '*.fastq.gz' \
+https://gannet.fish.washington.edu/seashell/bu-github/nb-2023/Cgigas/data/nopp/
+```
+
+
+
+
