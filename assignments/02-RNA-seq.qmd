@@ -43,7 +43,20 @@ wget --recursive --no-parent --no-directories \
 https://gannet.fish.washington.edu/seashell/bu-github/nb-2023/Cgigas/data/nopp/
 ```
 
-It is now Ignored!
+```{bash}
+mkdir output/kallisto_01
+
+find data/*fastq.gz \
+| xargs basename -s _L001_R1_001.fastq.gz | xargs -I{} /home/shared/kallisto/kallisto \
+quant -i data/cgigas_roslin_rna.index \
+-o output/kallisto_01/{} \
+-t 24 \
+--single -l 100 -s 10 data/{}_L001_R1_001.fastq.gz
+```
+
+```{bash}
+
+```
 
 
 
