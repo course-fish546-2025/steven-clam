@@ -43,6 +43,7 @@ wget --recursive --no-parent --no-directories \
 https://gannet.fish.washington.edu/seashell/bu-github/nb-2023/Cgigas/data/nopp/
 ```
 
+It is now Ignored!
 
 
 
