@@ -9,17 +9,15 @@ editor: visual
 ```{bash}
 /home/shared/kallisto/kallisto
 ```
+
 Kallisto installed on raven!!
 
-
 # Downloading Reference Genome
-
 
 ```{bash}
 cd data
 curl --insecure -O https://gannet.fish.washington.edu/seashell/bu-github/nb-2023/Cgigas/data/rna.fna
 ```
-
 
 ```{bash}
 /home/shared/kallisto/kallisto \
@@ -30,10 +28,7 @@ data/rna.fna
 
 This process will take a while.....
 
-
-
 # Dowloading sequence reads
-
 
 ```{bash}
 cd data 
@@ -53,9 +48,6 @@ quant -i data/cgigas_roslin_rna.index \
 -t 24 \
 --single -l 100 -s 10 data/{}_L001_R1_001.fastq.gz
 ```
-
-
-
 
 ```{bash}
 perl /home/shared/trinityrnaseq-v2.12.0/util/abundance_estimates_to_matrix.pl \
@@ -90,7 +82,6 @@ perl /home/shared/trinityrnaseq-v2.12.0/util/abundance_estimates_to_matrix.pl \
 ```
 
 # deseq (R)
-
 
 ```{r}
 library(DESeq2)
@@ -131,12 +122,10 @@ deseq2.res <- deseq2.res[order(rownames(deseq2.res)), ]
 head(deseq2.res)
 ```
 
-
 ```{r}
 # Count number of hits with adjusted p-value less then 0.05
 dim(deseq2.res[!is.na(deseq2.res$padj) & deseq2.res$padj <= 0.05, ])
 ```
-
 
 ```{r}
 tmp <- deseq2.res

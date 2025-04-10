@@ -28,6 +28,12 @@ echo '*.fastq.gz' >> .gitignore
 sort -u .gitignore -o .gitignore
 ```
 
+# md5
+
+```{bash}
+ls ../data/*.gz | xargs -n 1 -P 24 md5sum > ../output/01-Data-Explore/md5sums.txt
+```
+
 
 
 # run fastqc ...
@@ -44,7 +50,6 @@ eval "$(/opt/anaconda/anaconda3/bin/conda shell.bash hook)"
 conda activate
 which multiqc
 
-cd ../output
-
+cd ../output/01-Data-Explore/
 multiqc .
 ```
