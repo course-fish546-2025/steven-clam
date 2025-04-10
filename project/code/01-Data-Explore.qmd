@@ -33,8 +33,7 @@ sort -u .gitignore -o .gitignore
 # run fastqc ...
 
 ```{bash}
-cd ../data 
-/home/shared/FastQC-0.12.1/fastqc *fastq.gz -o ../output
+/home/shared/FastQC-0.12.1/fastqc -t 36 -o ../output/01-Data-Explore ../data/*.fastq.gz
 ```
 
 
