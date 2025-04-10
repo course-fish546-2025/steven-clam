@@ -18,6 +18,15 @@ http://owl.fish.washington.edu/nightingales/M_trossulus/
 ```
 
 
+# Lets Ignore!
+
+MAKE sure you ignore BEFORE you STAGE... Otherwise it will index large files that takes forever.
+
+```{bash}
+cd ../data
+echo '*.fastq.gz' >> .gitignore
+sort -u .gitignore -o .gitignore
+```
 
 
 
