@@ -1,0 +1,33 @@
+---
+title: "01-Data-Explore"
+format: html
+editor: visual
+---
+
+# Having a look at my methylation data
+
+1. Get data onto raven to start exploring !!
+
+This gets all fastq.gz files at given url and puts in data directory...
+```{bash}
+cd ../data 
+wget --recursive --no-parent --no-directories \
+--no-check-certificate \
+--accept '*.fastq.gz' \
+http://owl.fish.washington.edu/nightingales/M_trossulus/
+```
+
+
+
+
+
+# run fastqc ...
+
+```{bash}
+cd ../data 
+/home/shared/FastQC/fastqc *fastq.gz -o ../output
+```
+
+
+# have a pretty look with multiQC..
+
