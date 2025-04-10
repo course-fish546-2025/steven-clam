@@ -34,9 +34,18 @@ sort -u .gitignore -o .gitignore
 
 ```{bash}
 cd ../data 
-/home/shared/FastQC/fastqc *fastq.gz -o ../output
+/home/shared/FastQC-0.12.1/fastqc *fastq.gz -o ../output
 ```
 
 
 # have a pretty look with multiQC..
 
+```{bash}
+eval "$(/opt/anaconda/anaconda3/bin/conda shell.bash hook)"
+conda activate
+which multiqc
+
+cd ../output
+
+multiqc .
+```
