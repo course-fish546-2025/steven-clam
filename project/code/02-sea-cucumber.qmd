@@ -1,0 +1,17 @@
+---
+title: "02-sea-cumber"
+format: html
+editor: visual
+---
+
+```{bash}
+# Make a working directory
+ cd ../data/PRJNA848687_fastq
+
+# Example: Download and convert for a list of runs
+cat ../accession.list | while read -r run; do
+    /home/shared/sratoolkit.3.0.2-ubuntu64/bin/prefetch $run               # download .sra file
+    /home/shared/sratoolkit.3.0.2-ubuntu64/bin/fasterq-dump $run --split-files --threads 8
+done
+```
+
