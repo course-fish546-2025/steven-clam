@@ -114,11 +114,38 @@ cat ../output/F143_mpileup_output.txt \
 ```
 
 
+	•	bcftools call: calls genetic variants (SNPs/indels).
+	•	-m: uses the multiallelic calling model (for multi-sample or complex sites).
+	•	-v: outputs only variant sites (no reference sites).
+	•	-Oz: outputs a compressed VCF (.vcf.gz), using bgzip.
+
+
+
+
 ```{r, engine='bash'}
 zgrep "^##" -v ../output/F143_mpile.vcf.gz | \
 awk 'BEGIN{OFS="\t"} {split($8, a, ";"); print $1,$2,$4,$5,$6,a[1],$9,$10}' | head
 
 ```
+
+Step-by-Step:
+	1.	zgrep "^##" -v ../output/F143_mpile.vcf.gz
+	•	zgrep searches through a gzipped file.
+	•	-v "^##" excludes lines that start with ##, which are the metadata header lines in a VCF.
+	•	This allows column headers (#CHROM, etc.) and variant records through.
+	2.	awk 'BEGIN{OFS="\t"} {split($8, a, ";"); print $1,$2,$4,$5,$6,a[1],$9,$10}'
+	•	Sets output field separator to tab.
+	•	Splits the 8th column (the INFO field) by semicolons into array a.
+	•	Then prints:
+	•	$1 = CHROM
+	•	$2 = POS
+	•	$4 = REF
+	•	$5 = ALT
+	•	$6 = QUAL
+	•	a[1] = the first INFO field tag (e.g., DP=123)
+	•	$9 = FORMAT string
+	•	$10 = sample genotype data
+
 
 
 The code below might not work. That is fine. The VCF in the above chunk can be used for visualization in IGV.
