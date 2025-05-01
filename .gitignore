@@ -3,3 +3,9 @@
 .RData
 .Ruserdata
 
+
+assignments/output/*bam
+assignments/output/*sam
+assignments/output/*ht*
+assignments/output/*pile*
+assignments/output/*bai
