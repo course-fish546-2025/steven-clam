@@ -1,0 +1,153 @@
+##gff-version 3
+##sequence-region solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2609 1 551
+#!Date 2025-05-15
+#!Type DNA
+#!Source-version EMBOSS 6.6.0.0
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2609	fuzznuc	nucleotide_motif	90	91	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2609.1;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2609	fuzznuc	nucleotide_motif	175	176	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2609.2;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2609	fuzznuc	nucleotide_motif	483	484	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2609.3;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2609	fuzznuc	nucleotide_motif	495	496	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2609.4;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2609	fuzznuc	nucleotide_motif	538	539	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2609.5;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2609	fuzznuc	nucleotide_motif	548	549	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2609.6;note=*pat pattern:CG
+##gff-version 3
+##sequence-region solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069 1 266
+#!Date 2025-05-15
+#!Type DNA
+#!Source-version EMBOSS 6.6.0.0
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069	fuzznuc	nucleotide_motif	15	16	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069.1;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069	fuzznuc	nucleotide_motif	21	22	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069.2;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069	fuzznuc	nucleotide_motif	75	76	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069.3;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069	fuzznuc	nucleotide_motif	109	110	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069.4;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069	fuzznuc	nucleotide_motif	118	119	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069.5;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069	fuzznuc	nucleotide_motif	129	130	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069.6;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069	fuzznuc	nucleotide_motif	138	139	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069.7;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069	fuzznuc	nucleotide_motif	180	181	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069.8;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069	fuzznuc	nucleotide_motif	187	188	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069.9;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069	fuzznuc	nucleotide_motif	207	208	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069.10;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069	fuzznuc	nucleotide_motif	236	237	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069.11;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069	fuzznuc	nucleotide_motif	246	247	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069.12;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069	fuzznuc	nucleotide_motif	255	256	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069.13;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069	fuzznuc	nucleotide_motif	261	262	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_4069.14;note=*pat pattern:CG
+##gff-version 3
+##sequence-region solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2369 1 335
+#!Date 2025-05-15
+#!Type DNA
+#!Source-version EMBOSS 6.6.0.0
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2369	fuzznuc	nucleotide_motif	118	119	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2369.1;note=*pat pattern:CG
+##gff-version 3
+##sequence-region solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273 1 285
+#!Date 2025-05-15
+#!Type DNA
+#!Source-version EMBOSS 6.6.0.0
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273	fuzznuc	nucleotide_motif	8	9	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273.1;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273	fuzznuc	nucleotide_motif	33	34	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273.2;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273	fuzznuc	nucleotide_motif	46	47	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273.3;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273	fuzznuc	nucleotide_motif	74	75	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273.4;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273	fuzznuc	nucleotide_motif	94	95	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273.5;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273	fuzznuc	nucleotide_motif	101	102	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273.6;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273	fuzznuc	nucleotide_motif	119	120	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273.7;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273	fuzznuc	nucleotide_motif	125	126	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273.8;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273	fuzznuc	nucleotide_motif	136	137	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273.9;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273	fuzznuc	nucleotide_motif	167	168	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273.10;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273	fuzznuc	nucleotide_motif	171	172	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273.11;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273	fuzznuc	nucleotide_motif	176	177	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273.12;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273	fuzznuc	nucleotide_motif	206	207	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5273.13;note=*pat pattern:CG
+##gff-version 3
+##sequence-region solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1098 1 238
+#!Date 2025-05-15
+#!Type DNA
+#!Source-version EMBOSS 6.6.0.0
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1098	fuzznuc	nucleotide_motif	9	10	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1098.1;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1098	fuzznuc	nucleotide_motif	133	134	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1098.2;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1098	fuzznuc	nucleotide_motif	190	191	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1098.3;note=*pat pattern:CG
+##gff-version 3
+##sequence-region solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252 1 252
+#!Date 2025-05-15
+#!Type DNA
+#!Source-version EMBOSS 6.6.0.0
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252	fuzznuc	nucleotide_motif	10	11	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252.1;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252	fuzznuc	nucleotide_motif	19	20	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252.2;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252	fuzznuc	nucleotide_motif	34	35	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252.3;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252	fuzznuc	nucleotide_motif	38	39	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252.4;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252	fuzznuc	nucleotide_motif	52	53	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252.5;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252	fuzznuc	nucleotide_motif	97	98	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252.6;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252	fuzznuc	nucleotide_motif	100	101	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252.7;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252	fuzznuc	nucleotide_motif	156	157	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252.8;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252	fuzznuc	nucleotide_motif	163	164	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252.9;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252	fuzznuc	nucleotide_motif	174	175	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252.10;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252	fuzznuc	nucleotide_motif	230	231	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_1252.11;note=*pat pattern:CG
+##gff-version 3
+##sequence-region solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634 1 237
+#!Date 2025-05-15
+#!Type DNA
+#!Source-version EMBOSS 6.6.0.0
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634	fuzznuc	nucleotide_motif	11	12	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634.1;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634	fuzznuc	nucleotide_motif	18	19	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634.2;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634	fuzznuc	nucleotide_motif	32	33	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634.3;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634	fuzznuc	nucleotide_motif	39	40	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634.4;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634	fuzznuc	nucleotide_motif	47	48	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634.5;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634	fuzznuc	nucleotide_motif	51	52	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634.6;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634	fuzznuc	nucleotide_motif	85	86	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634.7;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634	fuzznuc	nucleotide_motif	104	105	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634.8;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634	fuzznuc	nucleotide_motif	119	120	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634.9;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634	fuzznuc	nucleotide_motif	125	126	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634.10;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634	fuzznuc	nucleotide_motif	143	144	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634.11;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634	fuzznuc	nucleotide_motif	155	156	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634.12;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634	fuzznuc	nucleotide_motif	177	178	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634.13;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634	fuzznuc	nucleotide_motif	230	231	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_634.14;note=*pat pattern:CG
+##gff-version 3
+##sequence-region solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097 1 285
+#!Date 2025-05-15
+#!Type DNA
+#!Source-version EMBOSS 6.6.0.0
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	17	18	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.1;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	20	21	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.2;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	39	40	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.3;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	52	53	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.4;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	101	102	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.5;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	107	108	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.6;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	111	112	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.7;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	138	139	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.8;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	172	173	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.9;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	194	195	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.10;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	207	208	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.11;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	215	216	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.12;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	228	229	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.13;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	237	238	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.14;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	254	255	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.15;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	259	260	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.16;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	272	273	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.17;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097	fuzznuc	nucleotide_motif	279	280	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2097.18;note=*pat pattern:CG
+##gff-version 3
+##sequence-region solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248 1 238
+#!Date 2025-05-15
+#!Type DNA
+#!Source-version EMBOSS 6.6.0.0
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248	fuzznuc	nucleotide_motif	11	12	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248.1;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248	fuzznuc	nucleotide_motif	41	42	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248.2;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248	fuzznuc	nucleotide_motif	79	80	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248.3;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248	fuzznuc	nucleotide_motif	81	82	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248.4;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248	fuzznuc	nucleotide_motif	89	90	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248.5;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248	fuzznuc	nucleotide_motif	95	96	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248.6;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248	fuzznuc	nucleotide_motif	122	123	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248.7;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248	fuzznuc	nucleotide_motif	131	132	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248.8;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248	fuzznuc	nucleotide_motif	133	134	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248.9;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248	fuzznuc	nucleotide_motif	188	189	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248.10;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248	fuzznuc	nucleotide_motif	194	195	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248.11;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248	fuzznuc	nucleotide_motif	230	231	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5248.12;note=*pat pattern:CG
+##gff-version 3
+##sequence-region solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423 1 216
+#!Date 2025-05-15
+#!Type DNA
+#!Source-version EMBOSS 6.6.0.0
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423	fuzznuc	nucleotide_motif	2	3	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423.1;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423	fuzznuc	nucleotide_motif	71	72	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423.2;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423	fuzznuc	nucleotide_motif	88	89	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423.3;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423	fuzznuc	nucleotide_motif	92	93	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423.4;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423	fuzznuc	nucleotide_motif	110	111	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423.5;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423	fuzznuc	nucleotide_motif	141	142	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423.6;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423	fuzznuc	nucleotide_motif	153	154	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423.7;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423	fuzznuc	nucleotide_motif	166	167	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423.8;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423	fuzznuc	nucleotide_motif	170	171	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423.9;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423	fuzznuc	nucleotide_motif	210	211	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423.10;note=*pat pattern:CG
+solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423	fuzznuc	nucleotide_motif	212	213	2	+	.	ID=solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_5423.11;note=*pat pattern:CG

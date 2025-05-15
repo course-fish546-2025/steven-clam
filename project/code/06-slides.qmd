@@ -1,0 +1,100 @@
+---
+title: "06-slides"
+format: revealjs
+editor: visual
+---
+
+# ID taxa 
+
+-   lkjadkfjakdjfa
+
+-   \-\-- slides
+
+-   thehe
+
+# Slide 02
+
+![pic](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Project_slidedeck\_\_2025\_\_Bioinformatics\_-\_FISH_546_2025-05-06_15-45-40.png)
+
+# slide 03
+
+![](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_Project_slidedeck__2025__Bioinformatics_-_FISH_546_2025-05-06_15-45-40.png)
+
+# code 
+
+```{r, echo=TRUE}
+1+2
+```
+
+
+# Trim 
+
+```{r}
+# Load built-in dataset
+data(mtcars)
+
+# Basic scatter plot: Miles per gallon vs. Horsepower
+plot(mtcars$hp, mtcars$mpg,
+     main = "MPG vs Horsepower",
+     xlab = "Horsepower",
+     ylab = "Miles Per Gallon",
+     pch = 19,         # Solid circle
+     col = "blue")     # Point color
+```
+
+# plotly
+
+```{r}
+library(plotly)
+
+## Interactive Plot with Plotly
+
+library(plotly)
+
+plot_ly(data = mtcars,
+        x = ~hp,
+        y = ~mpg,
+        type = 'scatter',
+        mode = 'markers',
+        marker = list(color = 'blue')) %>%
+  layout(title = "MPG vs Horsepower",
+         xaxis = list(title = "Horsepower"),
+         yaxis = list(title = "Miles Per Gallon"))
+```
+
+
+
+# 3d 
+
+```{r}
+
+
+plot_ly(data = mtcars, 
+        x = ~hp, 
+        y = ~mpg, 
+        z = ~wt, 
+        type = "scatter3d", 
+        mode = "markers",
+        marker = list(size = 5, color = 'orange')) %>%
+  layout(title = "3D Scatter: HP vs MPG vs Weight")
+
+
+```
+
+
+# raster
+
+```{r}
+
+# Create a matrix (like a 3D raster or elevation map)
+z <- volcano  # built-in elevation matrix in R
+
+# 3D surface plot
+plot_ly(z = ~z, type = "surface") %>%
+  layout(title = "3D Surface Plot of Volcano Data")
+```
+
+
+
+
+

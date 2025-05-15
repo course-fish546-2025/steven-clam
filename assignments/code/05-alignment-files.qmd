@@ -124,7 +124,7 @@ cat ../output/F143_mpileup_output.txt \
 
 ```{r, engine='bash'}
 zgrep "^##" -v ../output/F143_mpile.vcf.gz | \
-awk 'BEGIN{OFS="\t"} {split($8, a, ";"); print $1,$2,$4,$5,$6,a[1],$9,$10}' | head
+awk 'BEGIN{OFS="\t"} {split($8, a, ";"); print $1,$2,$4,$5,$6,a[1],$9,$10}' | tail
 
 ```
 
@@ -146,6 +146,16 @@ Step-by-Step:
 	•	$9 = FORMAT string
 	•	$10 = sample genotype data
 
+```{bash}
+# Step 1: Unzip the file to a temporary file
+zcat ../output/F143_mpile.vcf.gz | head -n -1 > ../output/F143_mpile_trimmed.vcf
+
+# Step 2: Recompress the trimmed file
+bgzip ../output/F143_mpile_trimmed.vcf
+
+# Step 3: (Optional) Index the new file if needed
+tabix -p vcf ../output/F143_mpile_trimmed.vcf.gz
+```
 
 
 The code below might not work. That is fine. The VCF in the above chunk can be used for visualization in IGV.
