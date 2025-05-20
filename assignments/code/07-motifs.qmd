@@ -1,10 +1,41 @@
 ---
 title: "07-motifs"
+author: Steven 
 format: html
 editor: visual
 ---
 
 
+```{r esetup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,         # Display code chunks
+  eval = FALSE,        # Avoid automatic execution
+  warning = FALSE,     # Hide warnings
+  message = FALSE,     # Hide messages
+  fig.width = 6,       # Set default plot width
+  fig.height = 4,      # Set default plot height
+  fig.align = "center", # Center align plots
+  comment = ""         # Prevents '##' in output
+)
+```
+
+
+# Rpubs Link!!
+
+<https://rpubs.com/sr320/1310956>
+
+
+
+Screenshot #1
+
+![igv](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_IGV_2025-05-15_10-18-14.png)
+screenshot #2
+
+![igv2](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_IGV_2025-05-15_10-19-46.png)
+
+
+
+
 
 ```{r, engine='bash'}
 cd ../data
@@ -18,7 +49,7 @@ curl -O https://gannet.fish.washington.edu/panopea/Cg-roslin/cgigas_uk_roslin_v1
 ```
 
 
-```{bash}
+```{r, engine='bash', eval=TRUE}
 head -40 ../data/Ab_4denovo_CLC6_a.fa
 ```
 
@@ -75,3 +106,24 @@ write.fasta(selected_sequences, names(selected_sequences), output_file, open = "
 ```{bash}
 fuzznuc -sequence ../output/10-seq-output.fasta -pattern CG -rformat gff -outfile ../output/10-seq-output.gff
 ```
+
+```{r, engine='bash', eval=TRUE}
+head ../output/10-seq-output.gff
+
+echo "THIS IS MY INDEX:!!"
+head ../output/10-seq-output.fasta.fai
+```
+
+What is a fasta index??
+
+	•	Sequence name: solid0078_20110412_FRAG_BC_WHITE_WHITE_F3_QV_SE_trimmed_contig_2609
+	
+	•	Length: 551 bp
+	
+	•	Offset: 69 (the starting byte of the sequence in the FASTA file)
+	
+	•	Linebases: 60 bases per line
+	
+	•	Linewidth: 61 bytes per line (60 bases + 1 newline character)
+
+
